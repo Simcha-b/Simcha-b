@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Simcha! 👋
 
-<!--
-**Simcha-b/Simcha-b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **About Me**  
+- 💻 I’m a developer focused on both Frontend and Backend development.  
+- 🌱 Currently learning: [React, Node.js].  
+- 🧠 Passionate about solving problems and exploring new technologies.  
 
-Here are some ideas to get you started:
+🛠️ **Languages & Tools**  
+- ⚡ HTML | CSS | JavaScript | Python  
+- 🚀 React | Node.js | MySQL  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **GitHub Stats**  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+
+🌐 **Links**  
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)  
+- [Personal Website](https://yourwebsite.com)

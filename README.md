@@ -11,5 +11,4 @@
 
 
 🌐 **Links**  
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)  
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](www.linkedin.com/in/simcha-berkovitz-2374122a9)  

@@ -6,8 +6,8 @@
 - 🧠 Passionate about solving problems and exploring new technologies.  
 
 🛠️ **Languages & Tools**  
-- ⚡ HTML | CSS | JavaScript | Python  
-- 🚀 React | Node.js | MySQL  
+- ⚡ JavaScript | Typescript | Go | Python  
+- 🚀 React |TailowindCSS | Node.js | MySQL 
 
 
 🌐 **Links**  

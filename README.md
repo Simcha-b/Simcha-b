@@ -7,7 +7,7 @@
 
 🛠️ **Languages & Tools**  
 - ⚡ JavaScript | Typescript | Go | Python  
-- 🚀 React |TailowindCSS | Node.js | MySQL 
+- 🚀 React | TailwindCSS | Node.js | MySQL 
 
 
 🌐 **Links**  
